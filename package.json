@@ -1,0 +1,18 @@
+{
+  "name": "reply-mquery",
+  "version": "0.0.1",
+  "description": "Reply with mongoose queries in hapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint index"
+  },
+  "keywords": [],
+  "author": "Filip Weiss <me@fiws.net>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.11.1"
+  },
+  "dependencies": {
+    "boom": "^4.2.0"
+  }
+}
