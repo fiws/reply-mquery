@@ -33,6 +33,6 @@ module.exports = (server, opts, next) => {
   next();
 };
 
-exports.attributes = {
+module.exports.attributes = {
   pkg: require('./package.json'),
 };
